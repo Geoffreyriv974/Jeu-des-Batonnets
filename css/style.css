@@ -1,0 +1,46 @@
+.table {
+    background: #fd8c4e;
+    padding: 1rem 2rem;
+    margin: 0 19rem;
+    border-radius: 10px;
+    border: 5px solid orangered;
+}
+
+#plateau {
+    background: olivedrab;
+    padding: 1rem;
+    border-radius: 8px;
+    border: 5px solid green;
+}
+
+.fa-minus {
+    color: #fd8c4e;
+    transform: rotate(90deg);
+}
+
+.btn {
+    margin: 1rem;
+    padding: 1rem 2rem;
+    border-radius: 50px;
+    border: 5px solid green;
+    color: white;
+    font-weight: 1000;
+    background: olivedrab;
+    cursor: pointer;
+}
+.btn:active {
+    background: white;
+    color: black;
+}
+.end {
+    display: flex;
+    justify-content: space-around;
+}
+h2 {
+    color: white;
+    border: 5px solid green;
+    background: olivedrab;
+    border-radius: 8px;
+    padding: 1rem;
+    margin: 1rem;
+}
